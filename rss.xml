@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TheaGilmore]]></title>
         <description><![CDATA[TheaGilmore]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theagilmore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 17:07:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 21:55:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theagilmore/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c49aa292-4f10-4c5f-900a-1a57c96795d6.JPG">]]></description>
+            <link>https://thegrid.ai/theagilmore/a042bfe7-995e-4bf6-b7a6-068b3d37e60b/index.html</link>
+            <guid isPermaLink="false">a042bfe7-995e-4bf6-b7a6-068b3d37e60b</guid>
+            <pubDate>Wed, 02 Mar 2016 21:55:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dc2116a-1ac2-45fb-a7ce-ad0ccd983524.jpg">]]></description>
-            <link>undefinedfe012f3c-910c-47d3-a135-8af78015b760/index.html</link>
+            <link>https://thegrid.ai/theagilmore/fe012f3c-910c-47d3-a135-8af78015b760/index.html</link>
             <guid isPermaLink="false">fe012f3c-910c-47d3-a135-8af78015b760</guid>
             <pubDate>Fri, 08 Jan 2016 17:07:48 GMT</pubDate>
         </item>
